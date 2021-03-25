@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elisabethkristina
 - 👀 I’m interested in Digital
-- 🌱 I’m currently learning Digital Marketing, Web, SQL, etc
+- 🌱 I’m currently learning Digital Marketing, Web, Apps, SQL, etc
 - 💞️ I’m looking to collaborate on everyone 
 - 📫 You can contact me on elisabeth.kristina@gmail.com
 
